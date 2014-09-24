@@ -1,13 +1,13 @@
 import java.util.Random;
 
-public class RandomStudentChooserPeriod2
+public class BasicRandomStudentChooser
 	{
 	public static void main(String[] args)
 		{
 		int luckyStudent;
 
 		String [] studentRoster = {"Jason", "Jin", "Gursev", "Karl", "Sammi", "Evan", "Harris", 
-				"Nick", "Nate", "Desmond", " Louren", "Christopher", "Blake", "Michael", "Gabe", 
+				"Nick", "Nate", "Desmond", " Lauren", "Christopher", "Blake", "Michael", "Gabe", 
 				"Celina", "Nathan", "Dan", "Jonothon", "Kevin", "Madeline", "Austin"};
 		
 		Random randomNumber = new Random();
